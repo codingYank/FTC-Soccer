@@ -1,0 +1,20 @@
+{
+  "name": "for-the-crest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html, parcel creators.html parcel about.html, parcel blog.html, parcel calender.html, parcel mar22-preview.html, parcel contact.php, img",
+    "build": "parcel build index.html, parcel build creators.html parcel build about.html, parcel build blog.html, parcel build calender.html, parcel build mar22-preview.html, parcel build contact.php"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
